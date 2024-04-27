@@ -1,0 +1,41 @@
+
+
+h1{
+  font-size: 3rem;
+}
+
+.to-do-list{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 100px;
+padding: 20px;
+
+}
+
+input[type="text"]{
+  padding: 5px;
+  border: 2px solid hsl(0, 0%, 50%);
+  border-radius: 5px;
+  margin: 10px;
+}
+
+li{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.text{
+  padding: 20px;
+}
+
+ul button{
+  margin-left: 15px;
+  float:right;
+}
+
+.list-group{
+ width: 600px;
+margin: auto;
+}
